@@ -52,4 +52,4 @@ Waveform screenshots for both addition and subtraction operations are provided i
 
 ## 📌 Author:
 
-[Rohit Itware](https://github.com/your-github-username)
+[Rohit Itware](https://github.com/Rohitt028)
